@@ -16,13 +16,13 @@ export default function Home() {
         </div>
         <div className="flex space-x-4 bg-black-500">
           <a href="/login" className="hover:underline text-orange-500">Log out</a>
-          <a href="https://https://huggingface.co/spaces/sylvain471/fake-app-scaper" >
+          <a href="https://huggingface.co/spaces/sylvain471/fake-app-scraper" >
             <Image
               aria-hidden
               src="/hf-logo-white.png"
               alt="Globe icon"
-              width={25}
-              height={25}
+              width={29}
+              height={29}
             />
           </a>
           <a href="https://github.com/sdelahaies/fake-app" >

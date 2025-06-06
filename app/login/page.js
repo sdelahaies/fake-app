@@ -81,8 +81,8 @@ const LoginPage = () => {
                               aria-hidden
                               src="/hf-logo-white.png"
                               alt="hf-space icon"
-                              width={25}
-                              height={25}
+                              width={29}
+                              height={29}
                             />
                           </a>
                           <a className="ml-2" href="https://github.com/sdelahaies/fake-app" >
